@@ -5,6 +5,6 @@ the becnhcmark consists of 15549 senses for 5347 unique words with an average of
 the benchmark is in parquet format, and can be loaded using the following code:
 ```
 import pandas as pd
-df = pd.read_parquet("Path to the benchmark file")
+df = pd.read_parquet("Path to 'new_df_pairs' file")
 print(df)
 ```
