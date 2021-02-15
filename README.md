@@ -8,3 +8,4 @@ import pandas as pd
 df = pd.read_parquet("Path to 'new_df_pairs' file")
 print(df)
 ```
+finetunning_ber.ipynb file contains The code of our experment.
